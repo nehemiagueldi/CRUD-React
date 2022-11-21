@@ -9,7 +9,7 @@ https://www.getpostman.com/collections/99933383e50697ba2a68
 - Delete pada CRUD React ini menghapus data yang diinginkan, untuk delete, ketika user menekan button delete, data langsung terhapus.
 
 
-## Untuk menjalankan program ini silahkan ketik 
+## Untuk menjalankan program ini silahkan ketik diterminal 
 # 1. ``npm i`` atau ``npm install``
 # 2. ``npm start``
 
