@@ -1,5 +1,6 @@
 # CRUD-React
-### CRUD-React menggunakan data master Propinsi. Untuk API bisa di import ke POSTMAN dari link JSON di bawah ini 
+### CRUD-React ini menggunakan data master Propinsi. 
+### Untuk API bisa di import ke POSTMAN dari link JSON di bawah ini :
 https://www.getpostman.com/collections/99933383e50697ba2a68
 
 ## Berikut sekilas informasi mengenai CRUD React yang sudah saya buat
